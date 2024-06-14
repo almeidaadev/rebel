@@ -6,21 +6,23 @@
 body
   color: $white
 
+.container-main
+  max-width: 1512px
+  margin: 0 auto
 
 .complement-header::before
   content: ""
-  background-image: url("../assets/bg-header.jpg")
-  background-repeat: no-repeat
-  background-size: cover
-  object-fit: contain
-  background-position: top
-
   position: absolute
   top: 0
   left: 0
   width: 100%
   height: 100%
-  z-index: -1
+  z-index: -999
+
+  background-image: url("../assets/bg-header.jpg")
+  background-repeat: no-repeat
+  background-size: cover
+  object-fit: contain
 
 .complement-header
   display: flex
@@ -32,10 +34,11 @@ body
 
   h1
     color: $white
-    font-size: 8rem
+    font-weight: 700
+    font-size: 10rem
     font-weight: 700
     margin-bottom: 1rem
-    max-width: 500px
+
 
   p
     color: $white
@@ -44,12 +47,17 @@ body
 .contant1
   color: $black
   font-size: 3rem
-
   text-align: center
 
+  h1
+    font-size: 6rem
+    font-weight: 600
+
   p
-    font-size: 1.5rem
+    font-size: 2rem
     margin: 2.5rem 0
+    font-weight: 600
+    color: #878787
 
   .carousel
     display: flex
@@ -59,23 +67,33 @@ body
     width: 100%
 
     .arrows-carousel
-      margin: 6rem 0 8rem 0
       display: flex
-      justify-content: space-around
+      justify-content: space-between
       width: 100%
+      padding: 6.5rem
+      i
+        color: $color-arrow
 
     .container-imgs
       display: flex
 
+.contant2::before
+  content: ""
+  background-image: url("../assets/bg-content2.png")
+  position: absolute
+  left: 0
+  top: 0
+  width: 100%
+  height: 100%
+  z-index: -999
+
 .contant2
   position: relative
-  width: auto
+  left: 0
   height: 80vh
-
   display: flex
   align-items: center
   flex-direction: column
-
 
   .arrows-carousel2
     position: absolute
@@ -86,18 +104,19 @@ body
     padding: 0 12rem
     i
       font-size: 4rem
-      color: $black
+      color: $color-arrow
       background: $white
-      padding: 1rem
+      padding: 1rem 2rem
       border-radius: 1rem
   h2
-    font-size: 5rem
+    font-size: 6.5rem
     padding-top: 5rem
+    font-weight: 700
 
   p
-    font-size: 1.8rem
+    font-size: 2rem
     margin: 2rem 0 0 0
-    text-shadow: .5px .5px .5px rgba(0 0 0 / .5)
+    // text-shadow: .5px .5px .5px rgba(0 0 0 / .2)
     padding-bottom: 2.5rem
 
   .carousel-services
@@ -113,12 +132,13 @@ body
 
     color: $black
 
-
   .cards
     border-radius: 1rem
     background: $white
     padding: 2.5rem
     max-width: 350px
+
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px
 
     h2
       font-size: 2.5rem
@@ -137,9 +157,9 @@ body
   color: $black
 
   height: 100vh
-  width: 100vw
 
   display: flex
+  
   justify-content: center
   align-items: center
   flex-direction: column
@@ -161,7 +181,7 @@ body
 
 .contant4
   height: 100vh
-  width: 100vw
+
   display: flex
   justify-content: center
   flex-direction: column
@@ -169,7 +189,6 @@ body
   color: $black
 
   padding: 0 8rem
-
 
   h2
     font-size: 2.5rem
@@ -191,6 +210,7 @@ body
     i
       font-size: 4rem
       margin: 6rem 0 15rem 0
+      color: $color-arrow
 
   .rating
     display: flex
@@ -217,3 +237,4 @@ body
         font-size: 1.5rem
         margin: 1rem 0 8rem 0
         max-width: 300px
+

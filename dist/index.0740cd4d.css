@@ -1,5 +1,6 @@
 @import "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap";
-* {
+@import "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap";
+*, :before, :after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -10,7 +11,7 @@
 }
 
 body * {
-  font-family: Montserrat, sans-serif;
+  font-family: Poppins, Montserrat, sans-serif;
 }
 
 a {
@@ -27,6 +28,10 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 0;
 }
 
+img {
+  max-width: 100%;
+}
+
 input {
   outline: none;
 }
@@ -36,7 +41,7 @@ body {
   background: #fff;
 }
 
-.search > input, #menu, #closeMenu, .navigation-header-mobile {
+.search > input, .navigation-header .mobile-nav, #menu, #closeMenu {
   display: none;
 }
 
@@ -52,6 +57,11 @@ body {
   position: relative;
   top: 0;
   left: 0;
+}
+
+.container-header img {
+  width: 357px;
+  height: 82px;
 }
 
 .navigation-header ul {
@@ -74,12 +84,16 @@ body {
   color: #fff;
 }
 
+.container-main {
+  max-width: 1512px;
+  margin: 0 auto;
+}
+
 .complement-header:before {
   content: "";
+  z-index: -999;
   object-fit: contain;
-  z-index: -1;
   background-image: url("bg-header.ae1334eb.jpg");
-  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -100,9 +114,8 @@ body {
 
 .complement-header h1 {
   color: #fff;
-  max-width: 500px;
   margin-bottom: 1rem;
-  font-size: 8rem;
+  font-size: 10rem;
   font-weight: 700;
 }
 
@@ -117,9 +130,16 @@ body {
   font-size: 3rem;
 }
 
+.contant1 h1 {
+  font-size: 6rem;
+  font-weight: 600;
+}
+
 .contant1 p {
+  color: #878787;
   margin: 2.5rem 0;
-  font-size: 1.5rem;
+  font-size: 2rem;
+  font-weight: 600;
 }
 
 .contant1 .carousel {
@@ -131,23 +151,38 @@ body {
 }
 
 .contant1 .carousel .arrows-carousel {
-  justify-content: space-around;
+  justify-content: space-between;
   width: 100%;
-  margin: 6rem 0 8rem;
+  padding: 6.5rem;
   display: flex;
+}
+
+.contant1 .carousel .arrows-carousel i {
+  color: #737373;
 }
 
 .contant1 .carousel .container-imgs {
   display: flex;
 }
 
+.contant2:before {
+  content: "";
+  z-index: -999;
+  background-image: url("bg-content2.565e5fcc.png");
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 .contant2 {
   flex-direction: column;
   align-items: center;
-  width: auto;
   height: 80vh;
   display: flex;
   position: relative;
+  left: 0;
 }
 
 .contant2 .arrows-carousel2 {
@@ -160,23 +195,23 @@ body {
 }
 
 .contant2 .arrows-carousel2 i {
-  color: #000;
+  color: #737373;
   background: #fff;
   border-radius: 1rem;
-  padding: 1rem;
+  padding: 1rem 2rem;
   font-size: 4rem;
 }
 
 .contant2 h2 {
   padding-top: 5rem;
-  font-size: 5rem;
+  font-size: 6.5rem;
+  font-weight: 700;
 }
 
 .contant2 p {
-  text-shadow: .5px .5px .5px #00000080;
   margin: 2rem 0 0;
   padding-bottom: 2.5rem;
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 
 .contant2 .carousel-services {
@@ -195,6 +230,7 @@ body {
   border-radius: 1rem;
   max-width: 350px;
   padding: 2.5rem;
+  box-shadow: 0 3px 8px #0000003d;
 }
 
 .contant2 .cards h2 {
@@ -216,7 +252,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100vw;
   height: 100vh;
   display: flex;
 }
@@ -243,7 +278,6 @@ body {
   color: #000;
   flex-direction: column;
   justify-content: center;
-  width: 100vw;
   height: 100vh;
   padding: 0 8rem;
   display: flex;
@@ -272,6 +306,7 @@ body {
 }
 
 .contant4 .arrows-rating i {
+  color: #737373;
   margin: 6rem 0 15rem;
   font-size: 4rem;
 }
