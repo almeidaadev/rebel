@@ -30,9 +30,11 @@ h1, h2, h3, h4, h5, h6, p {
 
 img {
   max-width: 100%;
+  max-height: 100%;
 }
 
 input {
+  border: none;
   outline: none;
 }
 
@@ -80,13 +82,148 @@ body {
   transition: all 1s ease-in-out;
 }
 
+.container-footer {
+  flex-direction: column;
+  width: 100%;
+  display: flex;
+  position: relative;
+  bottom: 0;
+  left: 0;
+}
+
+.section-one-foo {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 542px;
+  margin-top: 30rem;
+  display: flex;
+  position: relative;
+}
+
+.section-one-foo h2 {
+  color: #fff;
+  font-size: 6rem;
+  font-weight: 600;
+  line-height: 7rem;
+}
+
+.section-one-foo p {
+  text-align: center;
+  margin: 2rem 0 5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 3.4rem;
+}
+
+.section-one-foo .input-footer {
+  position: relative;
+}
+
+.section-one-foo .input-footer input {
+  border-radius: 3.5rem;
+  width: 676px;
+  height: 69px;
+  padding: 0 2rem;
+}
+
+.section-one-foo .input-footer button {
+  color: #fff;
+  background: #000;
+  border-radius: 2.8rem;
+  width: 146px;
+  height: 55px;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 3.4rem;
+  position: absolute;
+  top: 8px;
+  right: 10px;
+}
+
+.section-one-foo:before {
+  content: "";
+  z-index: -999;
+  object-fit: contain;
+  background-image: url("bg-footer.0b04c642.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 542px;
+  position: absolute;
+}
+
+.section-two-foo {
+  justify-content: space-around;
+  padding: 3rem;
+  display: flex;
+}
+
+.section-two-foo .follow-us {
+  text-align: center;
+}
+
+.section-two-foo .follow-us .social {
+  gap: 2rem;
+  display: flex;
+}
+
+.section-two-foo span, .section-two-foo a {
+  color: #6c6c6c;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 3.4rem;
+}
+
+.section-two-foo h3 {
+  color: #000;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 7rem;
+}
+
+.section-two-foo p {
+  color: #6c6c6c;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 2.5rem;
+}
+
+.section-two-foo .info-contact, .section-two-foo .quick-link {
+  flex-direction: column;
+  display: flex;
+}
+
+.section-three-foo {
+  color: #fff;
+  background: #000;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 3.4rem;
+  display: flex;
+}
+
 body {
   color: #fff;
+  overflow-x: hidden;
 }
 
 .container-main {
   max-width: 1512px;
   margin: 0 auto;
+}
+
+.bg-arrow img {
+  color: #737373;
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
 }
 
 .complement-header:before {
@@ -115,13 +252,14 @@ body {
 .complement-header h1 {
   color: #fff;
   margin-bottom: 1rem;
-  font-size: 10rem;
+  font-size: 9rem;
   font-weight: 700;
 }
 
 .complement-header p {
   color: #fff;
-  font-size: 2rem;
+  font-size: 1.8rem;
+  font-weight: 500;
 }
 
 .contant1 {
@@ -136,10 +274,10 @@ body {
 }
 
 .contant1 p {
-  color: #878787;
+  color: #737373;
   margin: 2.5rem 0;
-  font-size: 2rem;
-  font-weight: 600;
+  font-size: 1.8rem;
+  font-weight: 500;
 }
 
 .contant1 .carousel {
@@ -155,10 +293,6 @@ body {
   width: 100%;
   padding: 6.5rem;
   display: flex;
-}
-
-.contant1 .carousel .arrows-carousel i {
-  color: #737373;
 }
 
 .contant1 .carousel .container-imgs {
@@ -194,14 +328,6 @@ body {
   left: 0;
 }
 
-.contant2 .arrows-carousel2 i {
-  color: #737373;
-  background: #fff;
-  border-radius: 1rem;
-  padding: 1rem 2rem;
-  font-size: 4rem;
-}
-
 .contant2 h2 {
   padding-top: 5rem;
   font-size: 6.5rem;
@@ -228,8 +354,9 @@ body {
 .contant2 .cards {
   background: #fff;
   border-radius: 1rem;
-  max-width: 350px;
-  padding: 2.5rem;
+  width: 330px;
+  height: 433px;
+  padding: 1.5rem 3rem;
   box-shadow: 0 3px 8px #0000003d;
 }
 
@@ -257,21 +384,30 @@ body {
 }
 
 .contant3 .marcas {
-  gap: 10rem;
+  align-items: center;
+  gap: 6rem;
   display: flex;
+}
+
+.contant3 .marcas img {
+  width: 150px;
+  height: auto;
 }
 
 .contant3 h2 {
   font-size: 6rem;
+  font-weight: 600;
+  line-height: 70px;
 }
 
 .contant3 p {
-  text-align: center;
   color: #858585;
+  text-align: center;
   max-width: 600px;
-  margin: 2.5rem 0 12rem;
+  margin: 2.5rem 0 10rem;
   font-size: 1.8rem;
-  line-height: 3.5rem;
+  font-weight: 500;
+  line-height: 3.4rem;
 }
 
 .contant4 {
@@ -284,19 +420,26 @@ body {
 }
 
 .contant4 h2 {
+  letter-spacing: 14%;
   color: #626262;
-  font-size: 2.5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 7rem;
 }
 
 .contant4 h1 {
-  font-size: 5rem;
+  font-size: 6rem;
+  font-weight: 600;
+  line-height: 7rem;
 }
 
 .contant4 p {
+  color: #626262;
   max-width: 500px;
   margin-top: 2rem;
-  font-size: 2rem;
-  line-height: 3.5rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 4rem;
 }
 
 .contant4 .arrows-rating {
@@ -305,32 +448,35 @@ body {
   display: flex;
 }
 
-.contant4 .arrows-rating i {
+.contant4 .arrows-rating img {
   color: #737373;
   margin: 6rem 0 15rem;
   font-size: 4rem;
 }
 
 .contant4 .rating {
-  gap: 20rem;
+  gap: 5rem;
   margin: 0 auto;
   display: flex;
 }
 
 .contant4 .rating .cards-rating {
-  max-width: 500px;
+  border-radius: 1.6rem;
+  width: 400px;
+  height: 433px;
   margin-top: 5rem;
-}
-
-.contant4 .rating .cards-rating .person {
-  flex-direction: column;
-  align-items: center;
-  gap: 1rem;
-  display: flex;
+  padding: 1.6rem;
+  position: relative;
+  box-shadow: 0 3px 8px #0000003d;
 }
 
 .contant4 .rating .cards-rating .person img {
+  z-index: 999;
   border-radius: 50%;
+  margin: 0 auto;
+  position: absolute;
+  top: -7rem;
+  left: 14rem;
 }
 
 .contant4 .rating .cards-rating h3 {
@@ -339,7 +485,25 @@ body {
 
 .contant4 .rating .cards-rating p {
   max-width: 300px;
-  margin: 1rem 0 8rem;
+  margin: 1rem 0 2rem;
   font-size: 1.5rem;
+}
+
+.contant4 .rating .cards-rating .contant-rating {
+  margin-top: 8rem;
+  padding: 4rem;
+}
+
+.contant4 .rating .cards-rating .contant-rating h3 {
+  text-align: center;
+}
+
+.contant4 .rating .cards-rating .contant-rating span {
+  text-align: center;
+  line-weight: 500;
+  color: #858585;
+  margin-bottom: 4rem;
+  font-size: 1.8rem;
+  display: block;
 }
 /*# sourceMappingURL=index.0740cd4d.css.map */
