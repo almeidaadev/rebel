@@ -1,31 +1,31 @@
 6425
-67/home/almeidaadev/Downloads/rebel-rover-main/dist/face.75f00029.png1718383468636272451 0
+67/home/almeidaadev/Downloads/rebel-rover-main/dist/face.75f00029.png1718395642442112301 0
 77/home/almeidaadev/Downloads/rebel-rover-main/dist/imagemdesgraca.12342f1e.png1717796260846677199 0
-71/home/almeidaadev/Downloads/rebel-rover-main/dist/esquerda.9ce01bd1.png1718383468632272454 0
-68/home/almeidaadev/Downloads/rebel-rover-main/dist/insta.8a563f00.png1718383468636272451 0
-74/home/almeidaadev/Downloads/rebel-rover-main/dist/Booking.com.a6e9038d.png1718383468632272454 0
-74/home/almeidaadev/Downloads/rebel-rover-main/dist/bg-content2.565e5fcc.png1718383468764272360 0
-72/home/almeidaadev/Downloads/rebel-rover-main/dist/bg-header.ae1334eb.jpg1718383468760272363 0
-72/home/almeidaadev/Downloads/rebel-rover-main/dist/index.0740cd4d.css.map1718383468744272374 0
-68/home/almeidaadev/Downloads/rebel-rover-main/dist/index.0740cd4d.css1718383468720272390 0
-68/home/almeidaadev/Downloads/rebel-rover-main/dist/bigui.4812739f.png1718383468632272454 0
-74/home/almeidaadev/Downloads/rebel-rover-main/dist/Group 31(1).47f7f3b9.png1718383468632272454 0
+71/home/almeidaadev/Downloads/rebel-rover-main/dist/esquerda.9ce01bd1.png1718395642410112310 0
+68/home/almeidaadev/Downloads/rebel-rover-main/dist/insta.8a563f00.png1718395642446112301 0
+74/home/almeidaadev/Downloads/rebel-rover-main/dist/Booking.com.a6e9038d.png1718395642426112305 0
+74/home/almeidaadev/Downloads/rebel-rover-main/dist/bg-content2.565e5fcc.png1718395642554112272 0
+72/home/almeidaadev/Downloads/rebel-rover-main/dist/bg-header.ae1334eb.jpg1718395642550112274 0
+72/home/almeidaadev/Downloads/rebel-rover-main/dist/index.0740cd4d.css.map1718395670118105275 0
+68/home/almeidaadev/Downloads/rebel-rover-main/dist/index.0740cd4d.css1718395670106105277 0
+68/home/almeidaadev/Downloads/rebel-rover-main/dist/bigui.4812739f.png1718395642418112308 0
+74/home/almeidaadev/Downloads/rebel-rover-main/dist/Group 31(1).47f7f3b9.png1718395642418112308 0
 83/home/almeidaadev/Downloads/rebel-rover-main/dist/unsplash_519_90ncAds.39b6dc5d.png1718375201679185636 0
 72/home/almeidaadev/Downloads/rebel-rover-main/dist/Frame 1-2.b7555d22.png1718156044882886373 0
 75/home/almeidaadev/Downloads/rebel-rover-main/dist/Rectangle 18.a6d2bbec.png1718375512822820342 0
-71/home/almeidaadev/Downloads/rebel-rover-main/dist/Group 31.cf0fdc8f.png1718383468632272454 0
-72/home/almeidaadev/Downloads/rebel-rover-main/dist/bg-footer.0b04c642.png1718383468768272357 0
-71/home/almeidaadev/Downloads/rebel-rover-main/dist/localiza.d844f33e.png1718383468636272451 0
+71/home/almeidaadev/Downloads/rebel-rover-main/dist/Group 31.cf0fdc8f.png1718395642414112308 0
+72/home/almeidaadev/Downloads/rebel-rover-main/dist/bg-footer.0b04c642.png1718395642558112272 0
+71/home/almeidaadev/Downloads/rebel-rover-main/dist/localiza.d844f33e.png1718395642422112306 0
 83/home/almeidaadev/Downloads/rebel-rover-main/dist/unsplash_sELcHR_bGVs.b34627ad.png1717816188338542837 0
 66/home/almeidaadev/Downloads/rebel-rover-main/dist/bg2.b3804ced.svg1717796043094859119 0
-71/home/almeidaadev/Downloads/rebel-rover-main/dist/index.ce517d76.js.map1718383468744272374 0
-60/home/almeidaadev/Downloads/rebel-rover-main/dist/index.html1718383468680272419 0
+71/home/almeidaadev/Downloads/rebel-rover-main/dist/index.ce517d76.js.map1718395642534112278 0
+60/home/almeidaadev/Downloads/rebel-rover-main/dist/index.html1718395642506112285 0
 67/home/almeidaadev/Downloads/rebel-rover-main/dist/index.72dfada0.js1717881944667348716 0
-70/home/almeidaadev/Downloads/rebel-rover-main/dist/travava.759be353.png1718383468632272454 0
+70/home/almeidaadev/Downloads/rebel-rover-main/dist/travava.759be353.png1718395642418112308 0
 77/home/almeidaadev/Downloads/rebel-rover-main/dist/rebel-rover.59712999.js.map1717280970000000000 0
 71/home/almeidaadev/Downloads/rebel-rover-main/dist/Group 44.23c3d097.png1718375348111007862 0
-67/home/almeidaadev/Downloads/rebel-rover-main/dist/index.ce517d76.js1718383468680272419 0
-70/home/almeidaadev/Downloads/rebel-rover-main/dist/Frame 1.61796f8b.png1718383468636272451 0
+67/home/almeidaadev/Downloads/rebel-rover-main/dist/index.ce517d76.js1718395642474112293 0
+70/home/almeidaadev/Downloads/rebel-rover-main/dist/Frame 1.61796f8b.png1718395642446112301 0
 54/home/almeidaadev/Downloads/rebel-rover-main/README.md1717280970000000000 0
 62/home/almeidaadev/Downloads/rebel-rover-main/package-lock.json1717878031350175285 0
 64/home/almeidaadev/Downloads/rebel-rover-main/src/script/index.js1718375388438955984 0
@@ -52,14 +52,14 @@
 84/home/almeidaadev/Downloads/rebel-rover-main/src/script/.git/hooks/pre-rebase.sample1718330623073377796 0
 66/home/almeidaadev/Downloads/rebel-rover-main/src/script/.git/hooks1718330623081377806 1
 67/home/almeidaadev/Downloads/rebel-rover-main/src/script/.git/config1718330623085377811 0
-70/home/almeidaadev/Downloads/rebel-rover-main/dist/Jakmaen.c7f53207.png1718383468636272451 0
+70/home/almeidaadev/Downloads/rebel-rover-main/dist/Jakmaen.c7f53207.png1718395642446112301 0
 55/home/almeidaadev/Downloads/rebel-rover-main/src/script1718330623065377786 1
 63/home/almeidaadev/Downloads/rebel-rover-main/src/css/style.sass1718383784484212825 0
 67/home/almeidaadev/Downloads/rebel-rover-main/src/css/variables.sass1718380338251098251 0
 52/home/almeidaadev/Downloads/rebel-rover-main/src/css1717814205807800861 1
-71/home/almeidaadev/Downloads/rebel-rover-main/src/components/footer.sass1718383585192279143 0
+71/home/almeidaadev/Downloads/rebel-rover-main/src/components/footer.sass1718394116322520101 0
 68/home/almeidaadev/Downloads/rebel-rover-main/src/script/.git/objects1718330632245389437 1
-71/home/almeidaadev/Downloads/rebel-rover-main/src/components/header.sass1718158058075601873 0
+71/home/almeidaadev/Downloads/rebel-rover-main/src/components/header.sass1718395711426135975 0
 59/home/almeidaadev/Downloads/rebel-rover-main/src/components1718377514837170523 1
 71/home/almeidaadev/Downloads/rebel-rover-main/src/assets/bg-content2.png1717886942570721604 0
 69/home/almeidaadev/Downloads/rebel-rover-main/src/assets/bg-header.jpg1717280970000000000 0
@@ -85,7 +85,7 @@
 93/home/almeidaadev/Downloads/rebel-rover-main/src/assets/personRating/unsplash_KIPqvvTOC1s.png1717895622061510657 0
 68/home/almeidaadev/Downloads/rebel-rover-main/src/assets/personRating1717895622297510398 1
 67/home/almeidaadev/Downloads/rebel-rover-main/src/assets/Frame 1.png1717891746849639122 0
-55/home/almeidaadev/Downloads/rebel-rover-main/src/assets1718382447309191750 1
+55/home/almeidaadev/Downloads/rebel-rover-main/src/assets1718383685348295846 1
 81/home/almeidaadev/Downloads/rebel-rover-main/node_modules/react-refresh/README.md1717280970000000000 0
 115/home/almeidaadev/Downloads/rebel-rover-main/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js1717280970000000000 0
 79/home/almeidaadev/Downloads/rebel-rover-main/node_modules/react-refresh/LICENSE1717280970000000000 0
@@ -371,7 +371,7 @@
 97/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/css3-attr.js1717280970000000000 0
 110/home/almeidaadev/Downloads/rebel-rover-main/src/script/.git/objects/7c/1f1a1fb0fcfae9e14d56c7f662786bd67403b11718330627061382858 0
 107/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/css-optional-pseudo.js1717280970000000000 0
-70/home/almeidaadev/Downloads/rebel-rover-main/dist/direita.e9c39667.png1718383468632272454 0
+70/home/almeidaadev/Downloads/rebel-rover-main/dist/direita.e9c39667.png1718395642410112310 0
 95/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/details.js1717280970000000000 0
 109/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/requestanimationframe.js1717280970000000000 0
 99/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/input-event.js1717280970000000000 0
@@ -586,7 +586,7 @@
 97/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/wasm-simd.js1717280970000000000 0
 104/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/link-rel-preload.js1717280970000000000 0
 110/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/page-transition-events.js1717280970000000000 0
-59/home/almeidaadev/Downloads/rebel-rover-main/src/index.html1718383944280077174 0
+59/home/almeidaadev/Downloads/rebel-rover-main/src/index.html1718393533395219943 0
 98/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/css-shapes.js1717280970000000000 0
 101/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/css-variables.js1717280970000000000 0
 103/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/payment-request.js1717280970000000000 0
@@ -821,7 +821,7 @@
 99/home/almeidaadev/Downloads/rebel-rover-main/node_modules/cosmiconfig/dist/getPropertyByPath.js.map1717280970000000000 0
 87/home/almeidaadev/Downloads/rebel-rover-main/node_modules/cosmiconfig/dist/loaders.d.ts1717280970000000000 0
 96/home/almeidaadev/Downloads/rebel-rover-main/node_modules/cosmiconfig/dist/ExplorerSync.d.ts.map1717280970000000000 0
-83/home/almeidaadev/Downloads/rebel-rover-main/dist/unsplash_DItYlc26zVI.16ec5a32.png1718383468636272451 0
+83/home/almeidaadev/Downloads/rebel-rover-main/dist/unsplash_DItYlc26zVI.16ec5a32.png1718395642418112308 0
 84/home/almeidaadev/Downloads/rebel-rover-main/node_modules/cosmiconfig/dist/util.d.ts1717280970000000000 0
 90/home/almeidaadev/Downloads/rebel-rover-main/node_modules/cosmiconfig/dist/readFile.js.map1717280970000000000 0
 97/home/almeidaadev/Downloads/rebel-rover-main/node_modules/cosmiconfig/dist/canUseDynamicImport.js1717280970000000000 0
@@ -1149,7 +1149,7 @@
 111/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/font-variant-alternates.js1717280970000000000 0
 78/home/almeidaadev/Downloads/rebel-rover-main/node_modules/is-glob/package.json1717280970000000000 0
 116/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer1717280970000000000 1
-70/home/almeidaadev/Downloads/rebel-rover-main/dist/twitter.3a1f120b.png1718383468636272451 0
+70/home/almeidaadev/Downloads/rebel-rover-main/dist/twitter.3a1f120b.png1718395642442112301 0
 86/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/logger/lib/Logger.js1717280970000000000 0
 129/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/tokenizer/index.js1717280970000000000 0
 86/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/packager-css/LICENSE1717280970000000000 0
@@ -1475,7 +1475,7 @@
 140/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/index.d.ts.map1717280970000000000 0
 142/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/filters.d.ts.map1717280970000000000 0
 71/home/almeidaadev/Downloads/rebel-rover-main/node_modules/source-map-js1717280970000000000 1
-83/home/almeidaadev/Downloads/rebel-rover-main/dist/unsplash_KIPqvvTOC1s.24e55493.png1718383468640272448 0
+83/home/almeidaadev/Downloads/rebel-rover-main/dist/unsplash_KIPqvvTOC1s.24e55493.png1718395642422112306 0
 81/home/almeidaadev/Downloads/rebel-rover-main/node_modules/nullthrows/package.json1717280970000000000 0
 136/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/aliases.js1717280970000000000 0
 89/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/regions/BZ.js1717280970000000000 0
@@ -1530,7 +1530,7 @@
 125/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/lexer/structure.js1717280970000000000 0
 82/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/grid.less1717878030390176763 0
 76/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/graph/test1717280970000000000 1
-69/home/almeidaadev/Downloads/rebel-rover-main/dist/logo 2.60a6aa1a.png1718383706508278126 0
+69/home/almeidaadev/Downloads/rebel-rover-main/dist/logo 2.60a6aa1a.png1718395642422112306 0
 122/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/lexer/search.js1717280970000000000 0
 105/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/core/src/requests/WriteBundleRequest.js1717280970000000000 0
 90/home/almeidaadev/Downloads/rebel-rover-main/node_modules/nth-check/lib/esm/index.d.ts.map1717280970000000000 0
@@ -1919,7 +1919,7 @@
 107/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/transformer-image/src/ImageTransformer.js1717280970000000000 0
 96/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/core/src/public/BundleGroup.js1717280970000000000 0
 90/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/index.min.mjs.map1717878030414176726 0
-78/home/almeidaadev/Downloads/rebel-rover-main/dist/rebel-rover-main.59712999.js1718383468680272419 0
+78/home/almeidaadev/Downloads/rebel-rover-main/dist/rebel-rover-main.59712999.js1718395642474112293 0
 92/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/utils/test/input/sourcemap1717280970000000000 1
 77/home/almeidaadev/Downloads/rebel-rover-main/node_modules/micromatch/index.js1717280970000000000 0
 107/home/almeidaadev/Downloads/rebel-rover-main/node_modules/css-select/node_modules/domutils/lib/index.js.map1717280970000000000 0
@@ -1940,7 +1940,7 @@
 90/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/utils/src/relativeUrl.js1717280970000000000 0
 90/home/almeidaadev/Downloads/rebel-rover-main/node_modules/cosmiconfig/dist/defaults.js.map1717280970000000000 0
 122/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/index.js1717280970000000000 0
-68/home/almeidaadev/Downloads/rebel-rover-main/dist/phone.1f5e6560.png1718383468636272451 0
+68/home/almeidaadev/Downloads/rebel-rover-main/dist/phone.1f5e6560.png1718395642426112305 0
 95/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@swc/helpers/cjs/_async_generator.cjs1717280970000000000 0
 97/home/almeidaadev/Downloads/rebel-rover-main/node_modules/css-tree/lib/syntax/node/Parentheses.js1717280970000000000 0
 87/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/workers/src/Worker.js1717280970000000000 0
@@ -2075,7 +2075,7 @@
 94/home/almeidaadev/Downloads/rebel-rover-main/node_modules/lightningcss-linux-x64-gnu/README.md1717280970000000000 0
 89/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/core/lib/BundleGraph.js1717280970000000000 0
 108/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/core/test/fixtures/local-plugin-config-pkg1717280970000000000 1
-69/home/almeidaadev/Downloads/rebel-rover-main/dist/Katana.a954f725.png1718383468632272454 0
+69/home/almeidaadev/Downloads/rebel-rover-main/dist/Katana.a954f725.png1718395642414112308 0
 71/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/utils1717280970000000000 1
 89/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/source-map/dist/node.js1717280970000000000 0
 81/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/bundler-default1717280970000000000 1
@@ -2284,7 +2284,7 @@
 89/home/almeidaadev/Downloads/rebel-rover-main/node_modules/ordered-binary/rollup.config.js1717280970000000000 0
 99/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@swc/helpers/src/_object_spread_props.mjs1717280970000000000 0
 92/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/core/src/serializerCore.js1717280970000000000 0
-63/home/almeidaadev/Downloads/rebel-rover-main/src/css/reset.sass1718382341625291270 0
+63/home/almeidaadev/Downloads/rebel-rover-main/src/css/reset.sass1718393988338682024 0
 79/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/rust/index.js1717280970000000000 0
 93/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/reporter-dev-server/LICENSE1717280970000000000 0
 115/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/api/index.js1717280970000000000 0
@@ -2747,7 +2747,7 @@
 90/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/effect-cards.less1717878030382176775 0
 108/home/almeidaadev/Downloads/rebel-rover-main/node_modules/htmlnano/lib/modules/collapseBooleanAttributes.cjs1717280970000000000 0
 109/home/almeidaadev/Downloads/rebel-rover-main/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_load.c1717280970000000000 0
-44/home/almeidaadev/Downloads/rebel-rover-main1718383102516574753 1
+44/home/almeidaadev/Downloads/rebel-rover-main1718393490607419021 1
 86/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/cache/lib/types.d.ts1717280970000000000 0
 116/home/almeidaadev/Downloads/rebel-rover-main/node_modules/css-select/node_modules/domutils/lib/esm/querying.d.ts.map1717280970000000000 0
 115/home/almeidaadev/Downloads/rebel-rover-main/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/040-presets.md1717280970000000000 0
@@ -3782,7 +3782,7 @@
 112/home/almeidaadev/Downloads/rebel-rover-main/node_modules/csso/node_modules/css-tree/lib/syntax/atrule/import.js1717280970000000000 0
 112/home/almeidaadev/Downloads/rebel-rover-main/node_modules/csso/node_modules/css-tree/lib/syntax/node/Selector.js1717280970000000000 0
 86/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/workers/package.json1717280970000000000 0
-68/home/almeidaadev/Downloads/rebel-rover-main/dist/email.7ee898a0.png1718383468636272451 0
+68/home/almeidaadev/Downloads/rebel-rover-main/dist/email.7ee898a0.png1718395642426112305 0
 87/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/types/lib/unsafe.d.ts1717280970000000000 0
 109/home/almeidaadev/Downloads/rebel-rover-main/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.11717280970000000000 0
 100/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/workers/lib/core-worker.browser.js1717280970000000000 0
@@ -4000,7 +4000,7 @@
 96/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/codeframe/lib/codeframe.js.map1717280970000000000 0
 117/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/replace/atrule1717280970000000000 1
 91/home/almeidaadev/Downloads/rebel-rover-main/node_modules/escape-string-regexp/package.json1717280970000000000 0
-72/home/almeidaadev/Downloads/rebel-rover-main/dist/logoRebel.a7b5962a.png1718383468628272457 0
+72/home/almeidaadev/Downloads/rebel-rover-main/dist/logoRebel.a7b5962a.png1718395642410112310 0
 67/home/almeidaadev/Downloads/rebel-rover-main/node_modules/json5/lib1717280970000000000 1
 95/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/runtime-react-refresh/LICENSE1717280970000000000 0
 88/home/almeidaadev/Downloads/rebel-rover-main/node_modules/escape-string-regexp/readme.md1717280970000000000 0
@@ -5625,7 +5625,7 @@
 101/home/almeidaadev/Downloads/rebel-rover-main/node_modules/electron-to-chromium/chromium-versions.json1717280970000000000 0
 86/home/almeidaadev/Downloads/rebel-rover-main/node_modules/electron-to-chromium/LICENSE1717280970000000000 0
 95/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/types/modules/effect-flip.d.ts1717878030634176387 0
-82/home/almeidaadev/Downloads/rebel-rover-main/dist/rebel-rover-main.59712999.js.map1718383468744272374 0
+82/home/almeidaadev/Downloads/rebel-rover-main/dist/rebel-rover-main.59712999.js.map1718395642530112279 0
 91/home/almeidaadev/Downloads/rebel-rover-main/node_modules/postcss-value-parser/package.json1717280970000000000 0
 79/home/almeidaadev/Downloads/rebel-rover-main/node_modules/svgo/lib/svgo-node.js1717280970000000000 0
 99/home/almeidaadev/Downloads/rebel-rover-main/node_modules/electron-to-chromium/chromium-versions.js1717280970000000000 0
@@ -5660,7 +5660,7 @@
 79/home/almeidaadev/Downloads/rebel-rover-main/node_modules/is-arrayish/README.md1717280970000000000 0
 107/home/almeidaadev/Downloads/rebel-rover-main/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest5.c1717280970000000000 0
 96/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/effect-cube-element.css1717878030002177360 0
-67/home/almeidaadev/Downloads/rebel-rover-main/dist/Star.a0f507e9.png1718383468636272451 0
+67/home/almeidaadev/Downloads/rebel-rover-main/dist/Star.a0f507e9.png1718395642422112306 0
 68/home/almeidaadev/Downloads/rebel-rover-main/node_modules/fill-range1717280970000000000 1
 98/home/almeidaadev/Downloads/rebel-rover-main/node_modules/binary-extensions/binary-extensions.json1717280970000000000 0
 83/home/almeidaadev/Downloads/rebel-rover-main/node_modules/is-arrayish/.editorconfig1717280970000000000 0
@@ -5764,7 +5764,7 @@
 118/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/mdn-css-unicode-bidi-plaintext.js1717280970000000000 0
 85/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/autoplay.css1717878029962177421 0
 97/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/effect-cards.min.mjs.map1717878030398176751 0
-49/home/almeidaadev/Downloads/rebel-rover-main/dist1718383468768272357 1
+49/home/almeidaadev/Downloads/rebel-rover-main/dist1718395670126105273 1
 107/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/requestidlecallback.js1717280970000000000 0
 71/home/almeidaadev/Downloads/rebel-rover-main/node_modules/lmdb/index.js1717280970000000000 0
 93/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/autoplay-element.css1717878029958177428 0
@@ -5812,7 +5812,7 @@
 89/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/zoom.min.mjs.map1717878030474176634 0
 91/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/controller.min.css1717878029970177409 0
 89/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/swiper-bundle.min.js.map1717878030434176694 0
-83/home/almeidaadev/Downloads/rebel-rover-main/dist/unsplash_IF9TK5Uy-KI.79020462.png1718383468640272448 0
+83/home/almeidaadev/Downloads/rebel-rover-main/dist/unsplash_IF9TK5Uy-KI.79020462.png1718395642418112308 0
 93/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/keyboard-element.css1717878030066177261 0
 97/home/almeidaadev/Downloads/rebel-rover-main/node_modules/swiper/modules/manipulation-element.css1717878030070177255 0
 102/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/transformer-html/src/dependencies.js1717280970000000000 0
@@ -6046,7 +6046,7 @@
 104/home/almeidaadev/Downloads/rebel-rover-main/node_modules/caniuse-lite/data/features/intl-pluralrules.js1717280970000000000 0
 87/home/almeidaadev/Downloads/rebel-rover-main/node_modules/css-tree/lib/walker/create.js1717280970000000000 0
 90/home/almeidaadev/Downloads/rebel-rover-main/node_modules/css-tree/lib/convertor/create.js1717280970000000000 0
-70/home/almeidaadev/Downloads/rebel-rover-main/dist/youtube.e5cc7234.png1718383468636272451 0
+70/home/almeidaadev/Downloads/rebel-rover-main/dist/youtube.e5cc7234.png1718395642442112301 0
 116/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils1717280970000000000 1
 101/home/almeidaadev/Downloads/rebel-rover-main/node_modules/@parcel/core/test/fixtures/invalid-distpath1717280970000000000 1
 84/home/almeidaadev/Downloads/rebel-rover-main/node_modules/css-tree/lib/utils/List.js1717280970000000000 0

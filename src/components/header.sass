@@ -7,8 +7,9 @@ body
 .search > input
   display: none
 
-.navigation-header .mobile-nav
-  display: none
+.navigation-header  
+  .mobile-nav
+    display: none
 
 #menu,
 #closeMenu
@@ -34,21 +35,6 @@ body
     width: 357px
     height: 82px
 
-  // @media screen and (max-width: 999px)
-  //   & .navigation-header
-  //     display: none
-
-  //   & .navigation-header-mobile
-  //     position: absolute
-  //     display: flex
-  //     flex-direction: column
-  //     background: red
-  //     bottom: -50vh
-  //     left: 0
-
-  //     width: 100%
-  //     height: 50vh
-
 .navigation-header ul
   display: flex
   gap: 5rem
@@ -63,3 +49,8 @@ body
   transition: 1s ease-in-out
   cursor: pointer
   opacity: 1
+
+// @media screen (max-width: 999px)
+//   .mobile-nav
+//     display: flex
+//     flex-direction: column

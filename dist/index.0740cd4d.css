@@ -82,6 +82,13 @@ body {
   transition: all 1s ease-in-out;
 }
 
+@media (width < 999px) {
+  .mobile-nav {
+    flex-direction: column;
+    display: flex;
+  }
+}
+
 .container-footer {
   flex-direction: column;
   width: 100%;
